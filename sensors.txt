@@ -13,3 +13,13 @@ Sampling Interval: 5 minutes
 Sensor Status:
 Temperature Sensor: Active
 Soil Moisture Sensor: Active
+
+Weather Monitoring:
+
+Weather Sensor:
+Purpose: Collect rainfall and environmental conditions.
+Status: Planned
+
+Weather API:
+Purpose: Obtain weather forecasts.
+Status: Future Enhancement
