@@ -1,0 +1,15 @@
+Smart Agriculture System - Sensor Configuration
+
+Temperature Sensor:
+Purpose: Measures field temperature.
+Unit: Degree Celsius
+Sampling Interval: 5 minutes
+
+Soil Moisture Sensor:
+Purpose: Measures soil moisture level.
+Unit: Percentage
+Sampling Interval: 5 minutes
+
+Sensor Status:
+Temperature Sensor: Active
+Soil Moisture Sensor: Active

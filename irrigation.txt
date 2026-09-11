@@ -1,0 +1,17 @@
+Smart Agriculture System - Irrigation Control
+
+Irrigation Mode: Automatic
+
+Soil Moisture Threshold: 30%
+
+If soil moisture < 30%:
+    Start irrigation.
+
+If soil moisture >= 30%:
+    Stop irrigation.
+
+Manual Override:
+Available
+
+Future Enhancement:
+Weather-based irrigation control.
